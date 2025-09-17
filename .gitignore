@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data folders
+data/raw/
+data/processed/
+
+# Models
+models/
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
